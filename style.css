@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 body {
     font-family: "Poppins", sans-serif;
-    background-color: #8c52ff;
+    background-color: #0df61d;
 }
 section {
     text-align: center;
@@ -39,10 +39,10 @@ button {
     border: none;
     border-radius: 5px;
     color: #fff;
-    background-color: #8c52ff;
+    background-color: #25f129;
     cursor: pointer;
 }
 button:hover {
     transition: 0.25s;
-    background-color: #c1a2fe;
+    background-color: #63f111;
 }
